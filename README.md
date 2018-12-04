@@ -8,9 +8,9 @@ browser-sync start --server --directory --files "*"
 ```
 
 ## Some useful websites
-- (https://jsfiddle.net/z)
+- (https://jsfiddle.net/)
 - (https://codepen.io/)
-- (http://csstricks.com/)
+- (https://css-tricks.com/)
 
 ## Markdown
 - (https://guides.github.com/features/mastering-markdown/)
