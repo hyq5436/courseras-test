@@ -1,3 +1,8 @@
+## Coursera Test
+
+This is repository of coursera (https://www.coursera.org/learn/html-css-javascript-for-web-developers/lecture/4T1t0/development-environment-setup-part-3-github-and-browser-sync)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hyq5436/courseras-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
